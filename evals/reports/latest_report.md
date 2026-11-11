@@ -1,7 +1,7 @@
 # Teddy Eval Report
 
 - **Model**: `Qwen/Qwen3-8B`
-- **Timestamp**: 2026-11-11T20:01:06.857183+00:00
+- **Timestamp**: 2026-11-11T20:02:48.118415+00:00
 - **Total items evaluated**: 60
 
 ## Overall Metrics

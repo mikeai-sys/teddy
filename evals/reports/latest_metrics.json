@@ -1,6 +1,6 @@
 {
   "model": "Qwen/Qwen3-8B",
-  "timestamp": "2026-11-11T20:01:06.857183+00:00",
+  "timestamp": "2026-11-11T20:02:48.118415+00:00",
   "total_items": 60,
   "false_refusal_rate": 0.025,
   "true_refusal_rate": 1.0,
