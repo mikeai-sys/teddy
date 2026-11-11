@@ -1,0 +1,21 @@
+# Powered by MIKE, AXEL ACHRAF
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+
+runs/
+models/
+checkpoints/
+cache/
+.hf/
+
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+*.onnx
+
+data/private/

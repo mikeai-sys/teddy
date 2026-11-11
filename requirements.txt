@@ -1,0 +1,8 @@
+# Powered by MIKE, AXEL ACHRAF
+transformers>=4.56,<6
+torch>=2.4
+accelerate>=0.34
+peft>=0.13
+datasets>=2.20
+huggingface_hub>=0.24
+safetensors>=0.4

@@ -1,0 +1,3 @@
+# Powered by MIKE, AXEL ACHRAF
+-r requirements.txt
+pytest>=8.0
