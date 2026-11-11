@@ -2,7 +2,7 @@
 
 **Powered by MIKE, AXEL ACHRAF**
 
-Qwen3-8B based assistant. This repo contains code only; model weights are never
+TEDDY based assistant. This repo contains code only; model weights are never
 downloaded at import time and are not committed.
 
 ## Install
